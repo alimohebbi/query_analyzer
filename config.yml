@@ -1,0 +1,2 @@
+ground_truth: "/Users/usiusi/Documents/Repositories/matching-server/prefrect_matcher/gt_t.csv"
+query_log: "query_log/"
